@@ -9,5 +9,6 @@ public class ImoocSpringbootStarter2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(ImoocSpringbootStarter2Application.class, args);
 		//11111
+		//2222
 	}
 }
